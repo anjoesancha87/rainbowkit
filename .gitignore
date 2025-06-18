@@ -69,9 +69,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.test
-.env.local
 .envrc
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -111,3 +108,4 @@ dist
 # Others
 .DS_Store
 node-compile-cache/
+config.bat
